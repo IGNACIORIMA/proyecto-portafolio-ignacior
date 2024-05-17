@@ -1,2 +1,2 @@
-# Taller de maquetado Gen38
-Esto fue un taller donde maquetamos un portafolio con los chicos de la generación 38
+# Taller de maquetado Gen38 Ignacio R
+Esto fue un taller donde maquetamos un portafolio con los estudiantes de la generación 38
